@@ -37,6 +37,7 @@
 
 pub mod action;
 pub mod bundle;
+pub mod circuit;
 pub mod keys;
 pub mod note;
 pub mod primitives;
